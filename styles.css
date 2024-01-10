@@ -9,6 +9,10 @@ main {
   flex-grow: 1;
 }
 
+.vanligTekst {
+  max-width: 200px;
+  }
+
 .bgcolor-blue {
   background-color: blue;
 }
@@ -21,7 +25,3 @@ hr {
   color: blue;
 }
 
-.vanligTekst {
-  max-width: 200px;
-  color: blue;
-}
